@@ -1,82 +1,103 @@
-# Hi there 👋, I'm Rujisaran Malan!
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-<p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <!-- Optional: Add a cool banner image here. You can create one on Canva or find one online -->
-    <!-- <img src="YOUR_BANNER_IMAGE_URL" alt="Banner" width="100%"/> -->
-  </a>
+<h1 align="center">Hey there 👋, I'm Rujisaran Malan!</h1>
+
+<h3 align="left">👩‍💻 About Me</h3>
+
+<p align="left">
+I'm a recent graduate from <b>King Mongkut's Institute of Technology Ladkrabang (KMITL)</b> 🎓, based in Bangkok, Thailand.
+<br><br>
+- 🔭 I’m passionate about building and automating scalable infrastructure as a <b>DevOps Engineer</b>.
+- 🌱 I’m currently diving deeper into <b>AWS cloud services</b>, CI/CD best practices, and exploring container orchestration with <b>Kubernetes</b>.
+- 🤖 I'm also fascinated by the potential of <b>Machine Learning & LLMs</b> and how they can intersect with DevOps and automation.
+- ⚡ Ask me about DevOps concepts, cloud infrastructure, or my latest coding explorations!
 </p>
 
-I'm a recent graduate from **King Mongkut's Institute of Technology Ladkrabang (KMITL)** 🎓 and I'm passionate about building robust and scalable systems as a **DevOps Engineer**.
+---
 
-I enjoy bridging the gap between software development and IT operations, focusing on automation, cloud infrastructure, and efficient deployment pipelines. I'm also fascinated by the potential of Machine Learning, particularly Large Language Models (LLMs).
+<h3 align="left">🛠 Language and Tools</h3>
+
+<p align="left">Here are some of the technologies I work with:</p>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bun/bun-original.svg" height="40" alt="bun logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="sql logo"  /> <!-- Using PostgreSQL as an example for SQL -->
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" height="40" alt="kubernetes logo" />
+   <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" height="40" alt="terraform logo" />
+   <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" height="40" alt="tensorflow logo" /> <!-- Representing ML/LLM -->
+</div>
 
 ---
 
-### 🧑‍💻 About Me
+<h3 align="left">🔥 My Stats & Activity</h3>
 
-*   🎓 Fresh Graduate from **KMITL**, Bangkok, Thailand.
-*   🚀 Aspiring **DevOps Engineer** passionate about automation, cloud, and CI/CD.
-*   ☁️ Experience with **AWS** cloud services.
-*   🔧 Skilled in scripting and backend development with **Python** and **Golang**.
-*   ⚙️ Familiar with **Node.js** and the **Bun** runtime environment.
-*   💾 Proficient in **SQL** database management.
-*   🤖 Exploring the world of **Machine Learning** and **LLMs**.
-*   🌱 Always learning and eager to tackle new challenges!
-
----
-
-### 🛠️ Technologies & Tools
-
-Here are some of the technologies and tools I've worked with:
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=database&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) <!-- Added common DevOps tools -->
-![Terraform](https://img.shields.io/badge/Terraform-%237B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white) <!-- Added common DevOps tools -->
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) <!-- Generic ML badge -->
-
----
-
-### 📊 My GitHub Stats
-
-<!--- **IMPORTANT**: Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username in the URLs below -->
-<p align="center">
+<!-- GitHub Stats -->
+<div align="center">
   <a href="https://github.com/rujisaranmalan">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rujisaranmalan&show_icons=true&theme=radical&rank_icon=github&count_private=true&include_all_commits=true" alt="Rujisaran's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=rujisaranmalan&show_icons=true&theme=radical&rank_icon=github&count_private=true&include_all_commits=true" alt="Rujisaran's GitHub Stats" />
   </a>
   <br/>
   <a href="https://github.com/rujisaranmalan">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rujisaranmalan&layout=compact&theme=radical" alt="Rujisaran's Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rujisaranmalan&layout=compact&theme=radical" alt="Rujisaran's Top Languages" />
   </a>
-</p>
+  <br/>
+  <!-- Streak Stats -->
+  <a href="https://github.com/rujisaranmalan">
+    <!-- Themes: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
+    <img src="https://streak-stats.demolab.com?user=rujisaranmalan&theme=radical&hide_border=false&border_radius=5" height="150" alt="GitHub Streak" />
+  </a>
+</div>
+
+<!-- Snake Animation -->
+<div align="center">
+    <img src="https://raw.githubusercontent.com/rujisaranmalan/rujisaranmalan/output/github-contribution-grid-snake.svg" alt="contribution snake animation" />
+</div>
 
 ---
 
-### 📫 How to Reach Me
+<h3 align="left">📫 How to Reach Me:</h3>
 
-Feel free to connect with me!
+<div align="center">
+ <a href="https://www.linkedin.com/in/rujisaran-malan-a5bb78292/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+ </a>
+ <a href="mailto:rujisaran21@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  <!-- Add other badges here if you want (e.g., Twitter, YouTube) -->
+  <!--
+  <a href="YOUR_TWITTER_URL" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
+  </a>
+  -->
+</div>
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rujisaran-malan-a5bb78292/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rujisaran21@gmail.com)
+<br/>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rujisaranmalan.rujisaranmalan&left_color=grey&right_color=blue" alt="visitor badge"/>
+</div>
 
 ---
+
 <!--
-**YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**rujisaranmalan/rujisaranmalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
