@@ -68,7 +68,7 @@ I'm a recent graduate from <b>King Mongkut's Institute of Technology Ladkrabang 
 
 <!-- Snake Animation -->
 <div align="center">
-    <img src="https://raw.githubusercontent.com/rujisaranmalan/rujisaranmalan/output/github-contribution-grid-snake.svg" alt="contribution snake animation" />
+    <img src="https://raw.githubusercontent.com/rujisaranmalan/rujisaranmalan/main/dist/github-contribution-grid-snake.svg" alt="contribution snake animation" />
 </div>
 
 ---
