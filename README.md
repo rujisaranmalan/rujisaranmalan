@@ -1,5 +1,6 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExampramFmZjVpZ2Z2cWEyMHd2MXgwMm1ldWd2azM1ZzU3ZWx2cDlqbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif"  />
+  
 </div>
 
 <h1 align="center">Hey there 👋, I'm Rujisaran Malan!</h1>
